@@ -1,11 +1,11 @@
 {
-    "name": "largezhou/wechat-menu",
+    "name": "skyhxm/mp-wechat",
     "description": "方便好用的微信公众号菜单管理",
     "license": "MIT",
     "authors": [
         {
-            "name": "largezhou",
-            "email": "largezhou@hotmail.com"
+            "name": "skyhxm",
+            "email": "skyhxm@qq.com"
         }
     ],
     "require": {
