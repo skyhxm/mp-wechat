@@ -60,10 +60,6 @@ $ composer require largezhou/wechat-menu -vvv
 
 - EasyWeChat - 可能是最好用的微信非官方 SDK
 
-## 灵感 & 参考
-
-`FastAdmin` 中的一个插件 [微信管理](https://www.fastadmin.net/store/wechat.html)
-
 ## License
 
 MIT
